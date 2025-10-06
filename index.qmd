@@ -1,37 +1,44 @@
 ---
 title: "Estatutos por Municipio"
-subtitle: "Acceso a documentos y enlaces oficiales"
+subtitle: "Repositorio de información sobre los resultados del proyecto de estatuto óptimo"
 format:
   html:
     page-layout: full
 ---
 
-## Estatutos Municipales
+## Resultados
 
-Esta tabla contiene enlaces a los estatutos y documentos oficiales de diferentes municipios.
+Esta tabla contiene enlaces de los resultados para los diferentes municipios y los diferentes productos por municipio. 
+
+Este es un proyecto liderado por la Gobernación de Antioquia  y el Centro Valor Público de la Universidad EAFIT [(ver autores)](docs/autores_about).
 
 ::: {.table-container}
-| Código | Nombre | Enlace Web | PDF | Estado | Última Actualización |
-|------------------|--------|------------|-----|--------|---------------------|
-| 05021 | Alejandría | [Portal Oficial](https://alejandria-antioquia.gov.co) | [📄 Descargar](docs/alejandria.pdf) | ✅ Activo | 2024-10-01 |
-| 05036 | Angelópolis | [Portal Oficial](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | ✅ Activo | 2024-09-15 |
-| 05040 | Anorí | [Portal Oficial](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | ✅ Activo | 2024-08-30 |
-| 05055 | Argelia | [Portal Oficial](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | ⚠️ En revisión | 2024-07-20 |
-| 05086 | Belmira | [Portal Oficial](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | ✅ Activo | 2024-09-05 |
-| 05107 | Briceño | [Portal Oficial](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | ✅ Activo | 2024-08-15 |
-| 05315 | Guadalupe | [Portal Oficial](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | ❌ Pendiente | 2024-06-10 |
-| 05321 | Guatapé | [Portal Oficial](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | ✅ Activo | 2024-09-01 |
-| 05390 | La Pintada | [Portal Oficial](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | ✅ Activo | 2024-08-20 |
-| 05642 | Salgar | [Portal Oficial](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | ⚠️ En revisión | 2024-07-15 |
-| 05847 | Urrao | [Portal Oficial](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | ✅ Activo | 2024-09-10 |
+| Código | Nombre | Web | Diapositivas | Informe | Estado | Última Actualización |
+|--------|--------|------------|--------------|---------|--------|---------------------|
+| 05021 | Alejandría | [Link](https://alejandria-antioquia.gov.co) | [📄 Descargar](docs/alejandria.pdf) | [📊 Descargar](docs/alejandria-informe.pdf) | ✅ Revisado | 2024-10-01 |
+| 05036 | Angelópolis | [Link](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | [📊 Descargar](docs/angelopolis-informe.pdf) | ✅ Revisado | 2024-09-15 |
+| 05040 | Anorí | [Link](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | [📊 Descargar](docs/anori-informe.pdf) | ✅ Revisado | 2024-08-30 |
+| 05055 | Argelia | [Link](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | [📊 Descargar](docs/argelia-informe.pdf) | ⚠️ En revisión | 2024-07-20 |
+| 05086 | Belmira | [Link](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | [📊 Descargar](docs/belmira-informe.pdf) | ✅ Revisado | 2024-09-05 |
+| 05107 | Briceño | [Link](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | [📊 Descargar](docs/briceno-informe.pdf) | ✅ Revisado | 2024-08-15 |
+| 05315 | Guadalupe | [Link](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | [📊 Descargar](docs/guadalupe-informe.pdf) | ❌ Pendiente | 2024-06-10 |
+| 05321 | Guatapé | [Link](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | [📊 Descargar](docs/guatape-informe.pdf) | ✅ Revisado | 2024-09-01 |
+| 05390 | La Pintada | [Link](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | [📊 Descargar](docs/lapintada-informe.pdf) | ✅ Revisado | 2024-08-20 |
+| 05642 | Salgar | [Link](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | [📊 Descargar](docs/salgar-informe.pdf) | ⚠️ En revisión | 2024-07-15 |
+| 05847 | Urrao | [Link](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | [📊 Descargar](docs/urrao-informe.pdf) | ✅ Revisado | 2024-09-10 |
+:::
 :::
 
 ::: {.info-box}
 ### Información Importante
 
-- **✅ Activo**: Documento actualizado y vigente
+- **✅ Revisado**: Documento actualizado y vigente
 - **⚠️ En revisión**: Documento en proceso de actualización
 - **❌ Pendiente**: Documento pendiente por obtener o actualizar
 
-Para solicitar la actualización de algún documento o reportar enlaces rotos, por favor contacte al administrador del sitio.
+Para solicitar la actualización de algún documento, reportar enlaces rotos o cualquier duda, por favor contacte:
+
+📧 **Email**: [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co)  
+🌐 **Página web personal**: [www.jcmunozmora.co](https://www.jcmunozmora.co)
 :::
+
