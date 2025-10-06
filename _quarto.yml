@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Proyecto Estatutos Tributario VP - Impuestos prediales"
+  navbar:
+    title: "Proyecto Estatutos Tributario VP - Impuestos prediales"
+    style: "floating"
+    background: "#2c3e50"
+    foreground: "#ffffff"
+
+    tools:
+      - icon: house
+        href: https://www.jcmunozmora.co/
+
+    left:
+      - text: Autores
+        href: autores_about.qmd
+    
+  page-footer:
+    left: "© 2025 Centro Valor Público (Universidad EAFIT)"
+    right: |
+      <a href="https://www.eafit.edu.co/centros-estudio-incidencia/valor-publico" target="_blank" rel="noopener">
+        <img src="/img/logo-eafit.png" alt="Universidad EAFIT" class="footer-logo">
+      </a>
+
+format:
+  html:
+    theme: 
+      - default
+      - custom.scss
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 100px
+    fontsize: 16px
+    linestretch: 1.5

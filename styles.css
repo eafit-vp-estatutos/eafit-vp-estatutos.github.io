@@ -1,0 +1,155 @@
+/* Estilos personalizados para el sitio de estatutos */
+
+/* Variables de colores sobrios */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #34495e;
+  --accent-color: #3498db;
+  --text-color: #2c3e50;
+  --light-gray: #ecf0f1;
+  --border-color: #bdc3c7;
+  --success-color: #27ae60;
+  --warning-color: #f39c12;
+  --danger-color: #e74c3c;
+}
+
+/* Estilos generales */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
+/* Contenedor de la tabla */
+.table-container {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: white;
+}
+
+/* Estilos de tabla */
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+.table-container th {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  border: none;
+}
+
+.table-container td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid var(--border-color);
+  vertical-align: middle;
+}
+
+.table-container tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+.table-container tr:hover {
+  background-color: var(--light-gray);
+  transition: background-color 0.2s ease;
+}
+
+/* Enlaces */
+.table-container a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.table-container a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* Estados con emojis */
+.table-container td:nth-child(5) {
+  font-weight: 600;
+}
+
+/* Caja de información */
+.info-box {
+  background-color: #f8f9fa;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-left: 4px solid var(--accent-color);
+}
+
+.info-box h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.info-box ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.info-box li {
+  margin-bottom: 0.5rem;
+}
+
+/* Título y subtítulo */
+h1 {
+  color: var(--primary-color);
+  border-bottom: 3px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  color: var(--secondary-color);
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+/* Responsividad */
+@media (max-width: 768px) {
+  .table-container {
+    overflow-x: auto;
+  }
+  
+  .table-container table {
+    min-width: 700px;
+  }
+  
+  .table-container th,
+  .table-container td {
+    padding: 0.6rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  
+  .info-box {
+    padding: 1rem;
+  }
+}
+
+/* Footer personalizado */
+.nav-footer {
+  border-top: 1px solid var(--border-color);
+  margin-top: 3rem;
+}
+
+/* Estilos para el texto de actualización */
+hr + p em {
+  color: var(--secondary-color);
+  font-size: 0.9rem;
+  text-align: center;
+  display: block;
+  margin-top: 2rem;
+}

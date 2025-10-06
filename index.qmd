@@ -1,0 +1,37 @@
+---
+title: "Estatutos por Municipio"
+subtitle: "Acceso a documentos y enlaces oficiales"
+format:
+  html:
+    page-layout: full
+---
+
+## Estatutos Municipales
+
+Esta tabla contiene enlaces a los estatutos y documentos oficiales de diferentes municipios.
+
+::: {.table-container}
+| Código | Nombre | Enlace Web | PDF | Estado | Última Actualización |
+|------------------|--------|------------|-----|--------|---------------------|
+| 05021 | Alejandría | [Portal Oficial](https://alejandria-antioquia.gov.co) | [📄 Descargar](docs/alejandria.pdf) | ✅ Activo | 2024-10-01 |
+| 05036 | Angelópolis | [Portal Oficial](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | ✅ Activo | 2024-09-15 |
+| 05040 | Anorí | [Portal Oficial](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | ✅ Activo | 2024-08-30 |
+| 05055 | Argelia | [Portal Oficial](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | ⚠️ En revisión | 2024-07-20 |
+| 05086 | Belmira | [Portal Oficial](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | ✅ Activo | 2024-09-05 |
+| 05107 | Briceño | [Portal Oficial](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | ✅ Activo | 2024-08-15 |
+| 05315 | Guadalupe | [Portal Oficial](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | ❌ Pendiente | 2024-06-10 |
+| 05321 | Guatapé | [Portal Oficial](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | ✅ Activo | 2024-09-01 |
+| 05390 | La Pintada | [Portal Oficial](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | ✅ Activo | 2024-08-20 |
+| 05642 | Salgar | [Portal Oficial](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | ⚠️ En revisión | 2024-07-15 |
+| 05847 | Urrao | [Portal Oficial](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | ✅ Activo | 2024-09-10 |
+:::
+
+::: {.info-box}
+### Información Importante
+
+- **✅ Activo**: Documento actualizado y vigente
+- **⚠️ En revisión**: Documento en proceso de actualización
+- **❌ Pendiente**: Documento pendiente por obtener o actualizar
+
+Para solicitar la actualización de algún documento o reportar enlaces rotos, por favor contacte al administrador del sitio.
+:::

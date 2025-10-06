@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+
+// Colores sobrios
+$primary: #2c3e50 !default;
+$secondary: #34495e !default;
+$info: #3498db !default;
+$light: #ecf0f1 !default;
+
+// Tipografía
+$font-family-sans-serif: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !default;
+$font-size-base: 1rem !default;
+$line-height-base: 1.6 !default;
+
+// Espaciado
+$spacer: 1rem !default;
+
+/*-- scss:rules --*/
+
+// Mejoras adicionales para el tema
+.navbar-brand {
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+}

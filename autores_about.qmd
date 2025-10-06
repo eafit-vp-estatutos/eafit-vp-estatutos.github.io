@@ -1,0 +1,176 @@
+---
+title: "Autores"
+page-layout: full
+format:
+  html:
+    toc: false
+    number-sections: false
+    theme: cosmo
+lang: es
+date: last-modified
+---
+
+<style>
+/* Control global del tamaño */
+:root { --avatar: 96px; --card-w: 320px; }
+
+/* Layout simple con flex */
+.people { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; }
+.person {
+  display: flex; gap: 12px; padding: 12px;
+  border: 1px solid #eee; border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+  max-width: var(--card-w); background: #fff;
+}
+.person img {
+  width: var(--avatar); height: var(--avatar);
+  object-fit: cover; border-radius: 50%;
+}
+.person h3 { margin: 0 0 4px 0; font-size: 1.05rem; }
+.person .meta { color:#6c757d; font-size:.9rem; margin-bottom: 6px; }
+.person .links a {
+  text-decoration: none; padding: 4px 8px;
+  border: 1px solid #ddd; border-radius: 6px;
+  margin-right: 6px; font-size: .85rem;
+}
+.section-title{ font-weight:700; margin:.5rem 0 1rem; }
+</style>
+
+<div class="section-title h4">Equipo Valor Público — EAFIT</div>
+<p>Este sitio presenta a los autores y sus roles.</p>
+
+```{=html}
+<div class="people">
+
+
+  <div class="person">
+    <img src="img/jc_munoz.png" alt="Juan Carlos Muñoz Mora" loading="lazy">
+    <div>
+      <h3>Juan Carlos Muñoz Mora</h3>
+      <div class="meta">Dirección y coordinación técnica — Equipo CVP / Pulso Antioquia</div>
+      <p>Economista aplicado. Lidera conceptualización, metodología, validación y coordinación del repositorio y del sitio Quarto.</p>
+      <p class="links">
+        <a href="mailto:jmunozm1@eafit.co">📧 Correo</a>
+        <a href="https://github.com/jcmunozmora">💻 GitHub</a>
+      </p>
+    </div>
+  </div>
+
+    <div class="person">
+    <img src="img/moni.png" alt="Juan Carlos Muñoz Mora" loading="lazy">
+    <div>
+      <h3>Monica Almonacid</h3>
+      <div class="meta">Coordinadora del proyecto</div>
+      <p>Economista aplicado. Lidera conceptualización, metodología, validación y coordinación del repositorio y del sitio Quarto.</p>
+      <p class="links">
+        <a href="mailto:jmunozm1@eafit.co">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="person">
+    <img src="img/Laura.png" alt="Laura Quintero" loading="lazy">
+    <div>
+      <h3>Laura Quintero</h3>
+      <div class="meta">Investigadora Senior</div>
+      <p>Construcción de indicadores, reproducibilidad (R/tidymodels) y visualización; coautora de la documentación metodológica.</p>
+      <p class="links">
+        <a href="mailto:lmquinterv@eafit.edu.co">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+
+</div>
+```
+
+<div class="section-title h4">Equipo Gobernación de Antioquia</div>
+
+```{=html}
+<div class="people">
+
+    <div class="person">
+    <img src="img/eugenio.png" alt="Eugenio" loading="lazy">
+    <div>
+      <h3>Eugenio Prieto</h3>
+      <div class="meta">Secretario de Planeación de Antioquia</div>
+      <p>Dirección y acompañamiento estratégico.</p>
+      <p class="links">
+        <a href="mailto:mospina@proantioquia.org.co">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+  <div class="person">
+    <img src="img/Yeison.png" alt="Yeison" loading="lazy">
+    <div>
+      <h3>Yeison Miranda</h3>
+      <div class="meta">Director Catastro Antioquia</div>
+      <p>Dirección ténico</p>
+      <p class="links">
+        <a href="mailto:mospina@proantioquia.org.co">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+
+    <div class="person">
+    <img src="img/caro.png" alt="Yeison" loading="lazy">
+    <div>
+      <h3>Carolina Galindo</h3>
+      <div class="meta">Supervisora</div>
+      <p>Dirección ténico</p>
+      <p class="links">
+        <a href="mailto:mariacarolina.galindo@antioquia.gov.co">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+    <div class="person">
+    <img src="img/memo.png" alt="Yeison" loading="lazy">
+    <div>
+      <h3>Guillermo Cadavid</h3>
+      <div class="meta">Apoyo técnico</div>
+      <p>Dirección ténico</p>
+      <p class="links">
+        <a href="mailto:guileon8011@gmail.com">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+      <div class="person">
+    <img src="img/dani.png" alt="Yeison" loading="lazy">
+    <div>
+      <h3>Daniel Ovando</h3>
+      <div class="meta">Apoyo técnico</div>
+      <p>Dirección ténico</p>
+      <p class="links">
+        <a href="mailto:guileon8011@gmail.com">📧 Correo</a>
+      </p>
+    </div>
+  </div>
+
+
+</div>
+```
+
+---
+
+## Contribuciones (CRediT)
+
+> Un **✓** indica responsabilidad principal; un **•** contribución de apoyo; **-** no aplica.
+
+| Rol (CRediT)                    | Juan Carlos | Monica | Laura | Eugenio | Yeison | Carolina     | Guillermo | Daniel | Harold |
+|--------------------------------|:-----------:|:-----:|:------:|:---------:|:------:|:--------:|:--------:|:------:|:------:|
+| Conceptualización              | ✓           | ✓     |   ✓    |     -     |   -    |    ✓     |    ✓     |   ✓    |  ✓     |
+| Curaduría de datos             | ✓           | ✓     |   -    |     ✓     |   ✓    |    -     |    •     |   -    |  -     |
+| Metodología                    | ✓           | ✓     |   -    |     -     |   •    |    -     |    ✓     |   -    |   -    |
+| Software / reproducibilidad    | ✓           | ✓     |   -    |     -     |   •    |    -     |    •     |   -    |  -     |
+| Validación                     | ✓           | ✓     |   ✓    |     ✓     |   ✓    |    ✓     |    ✓     |   ✓    |  ✓     |
+| Análisis formal                | ✓           | ✓     |   ✓    |     ✓     |   ✓    |    ✓     |    ✓     |   ✓    |   ✓    |
+| Visualización                  | ✓           | ✓     |   -    |     ✓     |   ✓    |    ✓     |    •     |   -    |   -    |
+| Redacción – borrador original  | ✓           | ✓     |   -    |     -     |   •    |    •     |    •     |   -    |  -     |
+| Redacción – revisión y edición | ✓           | ✓     |   -    |     -     |   •    |    •     |    •     |   -    |  -     |
+| Administración del proyecto    | ✓           | ✓     |   -   |     -    |   •    |    •     |    •     |   -    |   -    |
+| Supervisión                    | ✓           | •     |   -    |     -     |   •    |    •     |    •     |   -    |  -     |
+
