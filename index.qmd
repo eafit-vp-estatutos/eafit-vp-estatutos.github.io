@@ -13,20 +13,99 @@ Esta tabla contiene enlaces de los resultados para los diferentes municipios y l
 Este es un proyecto liderado por la Gobernación de Antioquia  y el Centro Valor Público de la Universidad EAFIT [(ver autores)](docs/autores_about).
 
 ::: {.table-container}
-| Código | Nombre | Web | Diapositivas | Informe | Estado | Última Actualización |
-|--------|--------|------------|--------------|---------|--------|---------------------|
-| 05021 | Alejandría | [Link](https://alejandria-antioquia.gov.co) | [📄 Descargar](docs/alejandria.pdf) | [📊 Descargar](docs/alejandria-informe.pdf) | ✅ Revisado | 2024-10-01 |
-| 05036 | Angelópolis | [Link](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | [📊 Descargar](docs/angelopolis-informe.pdf) | ✅ Revisado | 2024-09-15 |
-| 05040 | Anorí | [Link](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | [📊 Descargar](docs/anori-informe.pdf) | ✅ Revisado | 2024-08-30 |
-| 05055 | Argelia | [Link](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | [📊 Descargar](docs/argelia-informe.pdf) | ⚠️ En revisión | 2024-07-20 |
-| 05086 | Belmira | [Link](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | [📊 Descargar](docs/belmira-informe.pdf) | ✅ Revisado | 2024-09-05 |
-| 05107 | Briceño | [Link](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | [📊 Descargar](docs/briceno-informe.pdf) | ✅ Revisado | 2024-08-15 |
-| 05315 | Guadalupe | [Link](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | [📊 Descargar](docs/guadalupe-informe.pdf) | ❌ Pendiente | 2024-06-10 |
-| 05321 | Guatapé | [Link](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | [📊 Descargar](docs/guatape-informe.pdf) | ✅ Revisado | 2024-09-01 |
-| 05390 | La Pintada | [Link](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | [📊 Descargar](docs/lapintada-informe.pdf) | ✅ Revisado | 2024-08-20 |
-| 05642 | Salgar | [Link](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | [📊 Descargar](docs/salgar-informe.pdf) | ⚠️ En revisión | 2024-07-15 |
-| 05847 | Urrao | [Link](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | [📊 Descargar](docs/urrao-informe.pdf) | ✅ Revisado | 2024-09-10 |
-:::
+| Entrega | Código | Nombre | Web | Diapositivas | Informe Completo | Informe Jurídico | Estado |
+|---------|--------|--------|-----|--------------|---------|------------------|--------|
+| 1 | 05321 | Guatapé | [Link](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | [📊 Descargar](docs/guatape-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05390 | La Pintada | [Link](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | [📊 Descargar](docs/lapintada-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05847 | Urrao | [Link](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | [📊 Descargar](docs/urrao-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05107 | Briceño | [Link](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | [📊 Descargar](docs/briceno-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05315 | Guadalupe | [Link](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | [📊 Descargar](docs/guadalupe-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05642 | Salgar | [Link](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | [📊 Descargar](docs/salgar-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05036 | Angelópolis | [Link](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | [📊 Descargar](docs/angelopolis-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05040 | Anorí | [Link](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | [📊 Descargar](docs/anori-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05055 | Argelia | [Link](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | [📊 Descargar](docs/argelia-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05086 | Belmira | [Link](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | [📊 Descargar](docs/belmira-informe.pdf) | En revisión | ⚠️ En revisión |
+| 2 | 05649 | San Andrés de Cuerquia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05674 | Santo Domingo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05790 | Tarazá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05091 | Betulia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05129 | Campamento | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05347 | Heliconia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05361 | Ituango | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05002 | Abejorral | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05376 | La Ceja | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05368 | Jericó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05854 | Valdivia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05197 | Concordia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05656 | San José de la Montaña | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05266 | Ebéjico | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05190 | Concepción | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05138 | Caramanta | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05354 | Hispania | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05004 | Abriaquí | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05044 | Angostura | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05440 | Marinilla | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05013 | Alejandría | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05585 | Puerto Triunfo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05756 | Santa Rosa de Osos | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05858 | Valparaíso | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05120 | Caicedo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05088 | Betania | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05665 | San Pedro de Urabá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05756 | Sopetrán | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05079 | El Bagre | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05310 | Gómez Plata | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05237 | Don Matías | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05031 | Amalfi | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05138 | Cañasgordas | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05306 | Giraldo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05101 | Ciudad Bolívar | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 4 | 05861 | Venecia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05543 | Mutatá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05647 | San Francisco | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05631 | Sabanalarga | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05576 | Nechí | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05604 | Pueblorrico | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05585 | Puerto Nare | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05579 | Peque | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05809 | Titiribí | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05893 | Zaragoza | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05148 | Carolina del Príncipe | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 5 | 05615 | San Roque | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05591 | Puerto Triunfo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05658 | San Pedro de los Milagros | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05172 | Chigorodó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05686 | Santa Rosa de Osos | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05579 | Puerto Berrío | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05264 | Entrerríos | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05042 | Santa Fe de Antioquia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05887 | Yarumal | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05051 | Arboletes | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05154 | El Carmen de Viboral | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 6 | 05313 | Guarne | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05837 | Uramita | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05400 | La Unión | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05190 | Cocorná | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05147 | Carepa | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05649 | San Carlos | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05576 | Necoclí | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05679 | El Santuario | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05615 | San Rafael | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05045 | Apartadó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05154 | Caucasia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 7 | 05756 | Sonsón | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05030 | Amagá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05658 | San Juan de Urabá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05579 | Olaya | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05467 | Maceo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05837 | Turbo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05815 | Toledo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05890 | Yolombó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05895 | Yondó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05129 | Caldas | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05021 | Alejandría | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05190 | Cisneros | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 8 | 05055 | Armenia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 :::
 
 ::: {.info-box}
@@ -36,9 +115,8 @@ Este es un proyecto liderado por la Gobernación de Antioquia  y el Centro Valor
 - **⚠️ En revisión**: Documento en proceso de actualización
 - **❌ Pendiente**: Documento pendiente por obtener o actualizar
 
-Para solicitar la actualización de algún documento, reportar enlaces rotos o cualquier duda, por favor contacte:
+Para solicitar la actualización de algún documento, reportar enlaces rotos o cualquier duda, por favor contacte: 
 
 📧 **Email**: [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co)  
 🌐 **Página web personal**: [www.jcmunozmora.co](https://www.jcmunozmora.co)
 :::
-

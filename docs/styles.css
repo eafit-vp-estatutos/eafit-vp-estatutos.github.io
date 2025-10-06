@@ -153,3 +153,57 @@ hr + p em {
   display: block;
   margin-top: 2rem;
 }
+
+/* Estilos para la página "Trabajando" */
+.working-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border-left: 5px solid var(--accent-color);
+}
+
+.working-container h2 {
+  color: var(--primary-color);
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 1.8rem;
+}
+
+.working-container h3 {
+  color: var(--secondary-color);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  border-bottom: 2px solid var(--accent-color);
+  padding-bottom: 0.5rem;
+}
+
+.working-container ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.working-container li {
+  margin-bottom: 0.8rem;
+  line-height: 1.6;
+}
+
+.working-container a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.working-container a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+.working-container p {
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}

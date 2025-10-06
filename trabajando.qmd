@@ -1,0 +1,42 @@
+---
+title: "Estamos Trabajando en Este Municipio"
+subtitle: "Contenido en Desarrollo"
+format:
+  html:
+    page-layout: full
+---
+
+::: {.working-container}
+## 🚧 Estamos Trabajando para Entregar Pronto Este Municipio
+
+Estimado visitante,
+
+Actualmente nuestro equipo está trabajando diligentemente en el desarrollo y revisión de los contenidos para este municipio. Esperamos tener los resultados disponibles muy pronto.
+
+### ⏰ ¿Qué estamos preparando?
+
+- 📄 **Diapositivas ejecutivas** con los principales hallazgos
+- 📊 **Informe detallado** con análisis completo
+- 🔗 **Enlaces actualizados** a recursos oficiales
+
+### 📅 Cronograma Estimado
+
+Los documentos estarán disponibles próximamente. Le recomendamos revisar esta página periódicamente para obtener las actualizaciones más recientes.
+
+### 📞 ¿Necesita Información Urgente?
+
+Si requiere información específica sobre este municipio con carácter urgente, puede contactarnos directamente:
+
+📧 **Email**: [jmunozm1@eafit.edu.co](mailto:jmunozm1@eafit.edu.co)  
+🌐 **Página web**: [www.jcmunozmora.co](https://www.jcmunozmora.co)
+
+### 🏛️ Sobre el Proyecto
+
+Este contenido forma parte del **Proyecto de Estatuto Óptimo** liderado por la **Gobernación de Antioquia** en colaboración con el **Centro Valor Público de la Universidad EAFIT**.
+
+[← Volver a la página principal](index.html)
+:::
+
+---
+
+*Última actualización: 6 de octubre de 2025*
