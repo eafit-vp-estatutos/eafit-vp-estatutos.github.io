@@ -15,24 +15,24 @@ Este es un proyecto liderado por la Gobernación de Antioquia  y el Centro Valor
 ::: {.table-container}
 | Entrega | Código | Nombre | Web | Diapositivas | Informe Completo | Informe Jurídico | Estado |
 |---------|--------|--------|-----|--------------|---------|------------------|--------|
-| 1 | 05321 | Guatapé | [Link](https://guatape.gov.co) | [📄 Descargar](docs/guatape.pdf) | [📊 Descargar](docs/guatape-informe.pdf) | En revisión | ⚠️ En revisión |
-| 1 | 05390 | La Pintada | [Link](https://lapintada-antioquia.gov.co) | [📄 Descargar](docs/lapintada.pdf) | [📊 Descargar](docs/lapintada-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05321 | Guatapé | [Link](https://eafit-vp-estatutos.github.io/municipio-guatape/) | [📄 Descargar](docs/guatape.pdf) | [📊 Descargar](docs/guatape-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05390 | La Pintada | [Link](https://eafit-vp-estatutos.github.io/municipio-la-pintada/) | [📄 Descargar](docs/lapintada.pdf) | [📊 Descargar](docs/lapintada-informe.pdf) | En revisión | ⚠️ En revisión |
 | 1 | 05847 | Urrao | [Link](https://urrao-antioquia.gov.co) | [📄 Descargar](docs/urrao.pdf) | [📊 Descargar](docs/urrao-informe.pdf) | En revisión | ⚠️ En revisión |
 | 1 | 05107 | Briceño | [Link](https://briceno-antioquia.gov.co) | [📄 Descargar](docs/briceno.pdf) | [📊 Descargar](docs/briceno-informe.pdf) | En revisión | ⚠️ En revisión |
-| 1 | 05315 | Guadalupe | [Link](https://guadalupe-antioquia.gov.co) | [📄 Descargar](docs/guadalupe.pdf) | [📊 Descargar](docs/guadalupe-informe.pdf) | En revisión | ⚠️ En revisión |
-| 1 | 05642 | Salgar | [Link](https://salgar-antioquia.gov.co) | [📄 Descargar](docs/salgar.pdf) | [📊 Descargar](docs/salgar-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05315 | Guadalupe | [Link](https://eafit-vp-estatutos.github.io/municipio-guadalupe/) | [📄 Descargar](docs/guadalupe.pdf) | [📊 Descargar](docs/guadalupe-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05642 | Salgar | [Link](https://eafit-vp-estatutos.github.io/municipio-salgar/) | [📄 Descargar](docs/salgar.pdf) | [📊 Descargar](docs/salgar-informe.pdf) | En revisión | ⚠️ En revisión |
 | 1 | 05036 | Angelópolis | [Link](https://angelopolis.gov.co) | [📄 Descargar](docs/angelopolis.pdf) | [📊 Descargar](docs/angelopolis-informe.pdf) | En revisión | ⚠️ En revisión |
 | 1 | 05040 | Anorí | [Link](https://anori-antioquia.gov.co) | [📄 Descargar](docs/anori.pdf) | [📊 Descargar](docs/anori-informe.pdf) | En revisión | ⚠️ En revisión |
-| 1 | 05055 | Argelia | [Link](https://argelia-antioquia.gov.co) | [📄 Descargar](docs/argelia.pdf) | [📊 Descargar](docs/argelia-informe.pdf) | En revisión | ⚠️ En revisión |
-| 1 | 05086 | Belmira | [Link](https://belmira-antioquia.gov.co) | [📄 Descargar](docs/belmira.pdf) | [📊 Descargar](docs/belmira-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05055 | Argelia | [Link](https://eafit-vp-estatutos.github.io/municipio-argelia/) | [📄 Descargar](docs/argelia.pdf) | [📊 Descargar](docs/argelia-informe.pdf) | En revisión | ⚠️ En revisión |
+| 1 | 05086 | Belmira | [Link](https://eafit-vp-estatutos.github.io/municipio-belmira/) | [📄 Descargar](docs/belmira.pdf) | [📊 Descargar](docs/belmira-informe.pdf) | En revisión | ⚠️ En revisión |
 | 2 | 05649 | San Andrés de Cuerquia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05674 | Santo Domingo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05790 | Tarazá | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05091 | Betulia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
-| 2 | 05129 | Campamento | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05129 | Campamento | [Link](https://eafit-vp-estatutos.github.io/municipio-campamento/) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05347 | Heliconia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05361 | Ituango | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
-| 2 | 05002 | Abejorral | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 2 | 05002 | Abejorral | [Link](https://eafit-vp-estatutos.github.io/municipio-abejorral/) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05376 | La Ceja | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 2 | 05368 | Jericó | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05854 | Valdivia | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
@@ -43,7 +43,7 @@ Este es un proyecto liderado por la Gobernación de Antioquia  y el Centro Valor
 | 3 | 05138 | Caramanta | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05354 | Hispania | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05004 | Abriaquí | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
-| 3 | 05044 | Angostura | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
+| 3 | 05044 | Angostura | [Link](https://eafit-vp-estatutos.github.io/municipio-angostura/) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05440 | Marinilla | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05013 | Alejandría | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
 | 3 | 05585 | Puerto Triunfo | [Ver info](trabajando.html) | [📄 Ver info](trabajando.html) | [📊 Ver info](trabajando.html) | En revisión | ❌ Pendiente |
